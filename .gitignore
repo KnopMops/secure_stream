@@ -2,5 +2,5 @@
 
 uv.lock
 
-/resources
-
+/dist
+/build
