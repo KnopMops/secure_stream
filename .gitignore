@@ -1,0 +1,6 @@
+/.venv
+
+uv.lock
+
+/resources
+
